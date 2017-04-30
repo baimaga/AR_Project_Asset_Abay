@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arprojectglobe", "arprojectglobe.csproj", "{BCF2CFA0-30A4-7236-3877-F0C69AFC8076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arprojectglobe.Editor", "arprojectglobe.Editor.csproj", "{92B870A7-2447-8F94-F546-708F960909CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF2CFA0-30A4-7236-3877-F0C69AFC8076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF2CFA0-30A4-7236-3877-F0C69AFC8076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF2CFA0-30A4-7236-3877-F0C69AFC8076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF2CFA0-30A4-7236-3877-F0C69AFC8076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B870A7-2447-8F94-F546-708F960909CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B870A7-2447-8F94-F546-708F960909CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B870A7-2447-8F94-F546-708F960909CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B870A7-2447-8F94-F546-708F960909CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
